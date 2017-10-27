@@ -1,0 +1,1 @@
+# this programs gives the factorial of that number 
